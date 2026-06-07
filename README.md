@@ -7,6 +7,37 @@
 
 ---
 
+## GitHub Stats
+
+<!-- Dynamic badges — auto-update from GitHub API -->
+[![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/Niranjan-M-T&color=181717)](https://github.com/Niranjan-M-T?tab=repositories)
+[![Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https://api.github.com/users/Niranjan-M-T&color=181717)](https://github.com/Niranjan-M-T?tab=followers)
+[![Following](https://img.shields.io/badge/dynamic/json?logo=github&label=Following&query=%24.following&url=https://api.github.com/users/Niranjan-M-T&color=181717)](https://github.com/Niranjan-M-T?tab=following)
+[![Profile Views](https://komarev.com/ghpvc/?username=Niranjan-M-T&label=Profile%20views&color=0e75b6)](https://github.com/Niranjan-M-T)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niranjan-M-T&show_icons=true&theme=github&include_all_commits=true&count_private=false" alt="GitHub Stats — stars, commits, PRs, issues" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Niranjan-M-T&theme=github" alt="GitHub Contribution Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-M-T&layout=compact&theme=github&langs_count=8&hide=html,css" alt="Top Languages by code volume" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niranjan-M-T&theme=github" alt="Annual GitHub activity stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niranjan-M-T&theme=github" alt="Repositories per language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niranjan-M-T&theme=github" alt="Most committed language" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjan-M-T&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+</p>
+
+*Stats refresh automatically via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [profile-summary-cards](https://github.com/vn7n24fklq/github-profile-summary-cards). Language charts reflect code volume across public repos.*
+
+---
+
 ## About Me (Why This Role Fits)
 
 I am a BBA (Branding & Advertising) student and builder behind [Studio Happens](https://www.studiohappens.tech/) — a strategy-focused creative agency. I combine **growth marketing** with **hands-on execution**: SEO, Google Ads, landing pages, content, and data-driven iteration.
