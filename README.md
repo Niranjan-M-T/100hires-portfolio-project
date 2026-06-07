@@ -108,7 +108,8 @@ No blockers on this submission — setup was straightforward because I already u
 
 - **Email:** niranjanmtheroth@gmail.com  
 - **Resume:** [niranjan.studiohappens.tech](https://niranjan.studiohappens.tech/)  
-- **GitHub:** [github.com/Niranjan-M-T](https://github.com/Niranjan-M-T)  
+- **GitHub:** [github.com/Niranjan-M-T](https://github.com/Niranjan-M-T)
+- **Linkedin:** [linkedin.com/in/niranjanmt](https://www.linkedin.com/in/niranjanmt/)
 
 ---
 
