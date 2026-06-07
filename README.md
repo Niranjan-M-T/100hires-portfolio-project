@@ -2,7 +2,7 @@
 
 **Candidate:** Niranjan M Theroth  
 **Role:** Junior Growth Marketing Specialist @ [100Hires](https://100hires.com)  
-**Resume:** [niranjan.studiohappens.tech](https://niranjan.studiohappens.tech/)  
+**Interactive Resume Website:** [niranjan.studiohappens.tech](https://niranjan.studiohappens.tech/)  
 **GitHub:** [github.com/Niranjan-M-T](https://github.com/Niranjan-M-T)
 
 ---
